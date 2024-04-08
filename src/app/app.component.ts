@@ -38,7 +38,7 @@ export class AppComponent {
     {
       id: 5,
       nombre: 'Sonido 5',
-      styleClass: this.publicClass + 'list-group-item-dark bg-primary-dark',
+      styleClass: this.publicClass + 'list-group-item-dark bg-success',
     },
   ];
 
